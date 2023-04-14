@@ -12,7 +12,7 @@
   "dependencies": {
     "kind-of": "^6.0.3",
     "merge": "^1.2.1",
-    "minimist": "^1.2.6",
+    "minimist": "^1.2.7",
     "node-sass": "^8.0.0",
     "tree-kill": "^1.2.2"
   },
